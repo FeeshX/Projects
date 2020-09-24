@@ -5,26 +5,26 @@ The analysis looks at the developments in the housing market during the period J
 
 **Navigating this Repo**
 ---
-* [Dataset](https://github.com/FeeshX/Projects/blob/master/COVID-19%20Housing%20Market/Dataset/weekly_housing_market_data_most_recent.tsv) Raw .xlxs file. Retrived from the following link on 9/17/20: https://www.redfin.com/blog/data-center/
+* [Dataset](https://github.com/FeeshX/Projects/blob/master/COVID-19%20Housing%20Market/Dataset/weekly_housing_market_data_most_recent.tsv) Raw .tsv file. Retrived from the following link on 9/17/20: https://www.redfin.com/blog/data-center/
 * [Notebook](https://github.com/FeeshX/Projects/blob/master/COVID-19%20Housing%20Market/Code/Housing_Analysis.ipynb) Jupyter notebook used to clean, organize and analyze data.
 * [Readme](https://github.com/FeeshX/Projects/blob/master/COVID-19%20Housing%20Market/Readme.MD) An overview of the dataset, method and summary of analysis.
 * [License](https://github.com/FeeshX/Projects/blob/master/COVID-19%20Housing%20Market/LICENSE) - MIT License
 
 **Method**
 ---
-I initally converted the file from TSV to CSV for ease of analysis. Tab Separated Values (TSV)and Comma Separated Values (CSV) are the two file type extensions used to load a set of data. A .tsv file will have tab separated values whereas .csv file has comma separated fields. I narrowed down the available variables (columns) in the dataset to study the impact of the pandemic on three key areas: 1) Total Homes Sold 2) Inventory (number of homes on the market) and 3) Homes delisted. To assess whether Covid-19 affected numbers in these areas, I used data from 2017-2019 as comparision for the current year 2020. The initial dataset was collected on either a rolling 1, 4 or 12-week window. I scaled down my dataset to show numbers for a 1 week window, as it would better reflect any marginal changes in the housing market and provide a clearer picture.
+The coding was performed on Google Collab notebook and the dataset was uploaded and mounted from my local Google Drive. I initally converted the file from TSV to CSV for ease of analysis. Tab Separated Values (TSV)and Comma Separated Values (CSV) are the two file type extensions used to load a set of data. A .tsv file will have tab separated values whereas .csv file has comma separated fields. I narrowed down the available variables (columns) in the dataset to study the impact of the pandemic on three key areas: 1) Total Homes Sold 2) Inventory (number of homes on the market) and 3) Homes delisted. To assess whether Covid-19 affected numbers in these areas, I used data from 2017-2019 as comparision for the current year 2020. The initial dataset was collected on either a rolling 1, 4 or 12-week window. I scaled down my dataset to show numbers for a 1 week window, as it would better reflect any marginal changes in the housing market and provide a clearer picture.
 
 **Summary**
 ---
-My analysis shows that COVID-19 has impacted the U.S. housing market. As the pandemic starting spreading in mid-March, on the demand-side, homebuyers may have been hesitant to visit prospective homes due to stay-at-home orders.
+My analysis shows that COVID-19 has impacted the U.S. housing market. As the pandemic starting spreading in mid-March, on the supply-side, the inventory of homes decreased by 21.7% between March 2020 to April 2020, as shown below. On the demand-side, homebuyers may have been hesitant to visit prospective homes due to stay-at-home orders.
 
 ![Image of Homes Inventory](https://github.com/FeeshX/Projects/blob/master/COVID-19%20Housing%20Market/Images/Homes_inventory.PNG)
 
-On the supply-side, the inventory of homes decreased by 21.7% between March 2020 to April 2020, as shown above, and the number of delistings increased by 39.1% as sellers may have delisted their homes to prevent the risk of contracting the disease, as shown below. 
+The number of delistings increased by 39.1% as sellers may have delisted their homes to prevent the risk of contracting the disease, as shown below.
 
 ![Image of Homes Delisted](https://github.com/FeeshX/Projects/blob/master/COVID-19%20Housing%20Market/Images/Homes_delisted_YYYY_MM.PNG)
 
-In terms of total homes sold, as shown below, home sales are at a record high. The rebound in home sales is being led by mortgage interest rates, which hit an all-time low in August. The 30-year fixed mortgage rate is at an average of 2.98%, the lowest since 1971, according to data from Freddie Mac.
+In terms of total homes sold, home sales are at a record high. The rebound in home sales is being led by mortgage interest rates, which hit an all-time low in August. The 30-year fixed mortgage rate is at an average of 2.98%, the lowest since 1971, according to data from Freddie Mac. 
 
 ![Image of Total Homes Sold](https://github.com/FeeshX/Projects/blob/master/COVID-19%20Housing%20Market/Images/Total_homes_sold_YYYY_MM.PNG)
 
