@@ -1,7 +1,7 @@
 ## **The Housing Market During the COVID-19 Pandemic**
 **Exploratory Analysis**
 
-The analysis looks at the developments in the housing market during the period January 2017 - August 2020 in the U.S in terms of pricing, inventory and sales, as provided and defined by Redfin, a national real estate brokerage. The local data is grouped by metropolitan area and by county; overall it provides housing data on 1527 Counties. The findings can be insightful for homeowners, housebuilders, realtors and investors in the real estate industry to help understand and manage any disruption and uncertainty.
+The analysis looks at the developments in the housing market during the period January 2017 - August 2020 in the U.S in terms of inventory and sales, as provided and defined by Redfin, a national real estate brokerage. The local data is grouped by metropolitan area and by county; overall it provides housing data on 1527 Counties. The findings can be insightful for homeowners, housebuilders, realtors and investors in the real estate industry to help understand and manage any disruption and uncertainty.
 
 **Navigating this Repo**
 ---
