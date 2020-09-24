@@ -30,4 +30,5 @@ In terms of total homes sold, home sales are at a record high. The rebound in ho
 
 My findings are corroborated by this [Reuters Article](https://www.reuters.com/article/us-usa-economy-housing/u-s-home-sales-rack-up-record-gain-tight-supply-covid-19-seen-slowing-momentum-idUSKCN24N22B), pointing out that "U.S. home sales increased by the most on record in June, boosted by historically low mortgage rates, but the outlook for the housing market is being clouded by low inventory and high unemployment amid the COVID-19 pandemic". This combination means that in most Counties, potential buyers are bidding on a limited supply of homes for sale.
 
+
 ###### *Though there may have been external variables that affected total homes sold, inventory of homes and homes delisted, I am assuming that Covid-19 played a larger role in any changes in the housing market for March-2020 onwards.*
