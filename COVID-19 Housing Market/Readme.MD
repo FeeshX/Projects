@@ -18,7 +18,7 @@ The coding was performed on Google Collab notebook and the dataset was uploaded 
 ---
 My analysis shows that COVID-19 has impacted the U.S. housing market. As the pandemic starting spreading in mid-March, on the supply-side, the inventory of homes decreased by 21.7% between March 2020 to April 2020, as shown below. On the demand-side, homebuyers may have been hesitant to visit prospective homes due to stay-at-home orders.
 
-![Image of Homes Inventory](https://github.com/FeeshX/Projects/blob/master/COVID-19%20Housing%20Market/Images/Homes_inventory.PNG)
+![Image of Homes Inventory](https://github.com/FeeshX/Projects/blob/master/COVID-19%20Housing%20Market/Images/Homes_Inventory.PNG)
 
 The number of delistings increased by 39.1% as sellers may have delisted their homes to prevent the risk of contracting the disease, as shown below.
 
