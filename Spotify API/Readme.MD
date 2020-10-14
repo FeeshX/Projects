@@ -1,9 +1,7 @@
 **Background**
 
 Soundtracks are an important piece in the composition of any T.V show and movie. 
-Artfully placed pieces bring life and add an extra dimension of a moment. Music gives a higher chance of success because of how it entraps and guides the audience to the story as it unfolds. 
-
-This analysis looks at how musical composition of two popular T.V Shows that contrast significantly in terms of genre and theme vary.
+Artfully placed pieces bring life and add an extra dimension of a moment. Music gives a higher chance of success because of how it entraps and guides the audience to the story as it unfolds. This analysis looks at how musical composition of two popular T.V Shows that contrast significantly in terms of genre and theme vary.
 
 - **Madmen** *is an American period-drama set in the 1960s about a New York advertising agency, focusing on their personal lives of the people and families who work there during the tumultuous and divisive decade.*
 - **Whitelines** *is a British-Spannish mystery thriller 
@@ -43,11 +41,13 @@ and speech, either in sections or layered, including such cases as rap music. Va
 
 
 **Analysis of the Data**
+
 The diagram below shows the mean values of audio features. 
 
 [diagram here]
 
-According to the visual, Madmen has music that is high in acousticness, energy and danceability. This is typical of what one would expect in a 60s melodrama that is packed with instrumentals, funk-soul, pop-rock and classics. Whitelines in contrast, does lower in acousticness but high in energy and danceability as most of its soundtrack comprises of up-beat, electric, modern tunes. I next looked at how varied each playlist is. A very varied playlist encompasses songs from multiple genres. The opposite of this, a low varied playlist, is one where songs mostly fall under the same genre. Madmen has a greater variety in its song selection than Whitelines by a marginal amount.
+According to the visual, Madmen has music that is high in acousticness, energy and danceability. This is typical of what one would expect in a 60s melodrama that is packed with instrumentals, funk-soul, pop-rock and classics. Whitelines in contrast, does lower in acousticness but high in energy and danceability as most of its soundtrack comprises of up-beat, electric, modern tunes. I next looked at how varied each playlist is. A very varied playlist encompasses songs from multiple genres. The opposite of this, a low varied playlist, is one where songs mostly fall under the same genre. For this the standard deviation of the audio features were calculated. Madmen has a greater variety in its song selection than Whitelines by a marginal amount.
 
 **Next Steps**
+
 When selecting tracks for upcoming productions, music directors can shortlist those that fit with ones that possess a similar audio feature profile (defined below) as the ones used in existing, successful T.V shows. This would provide a data-driven way to pair a show with a song based on past data rather than scanning thousands of tracks and spending hours finding the right tune. 
