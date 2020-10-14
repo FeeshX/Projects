@@ -1,4 +1,6 @@
-## **Scraping the Spotify API using Python to Compare the Musical Variation of Soundtracks in Two Popular T.V Shows**
+## **Scraping the Spotify API using Python to Compare the Audio Features of Soundtracks in Two Popular T.V Shows**
+
+![MadMen and Whitelines](https://github.com/mishaisran/Projects/blob/master/Spotify%20API/Images/Header%20Project.png)
 
 **Overview**
 ---
@@ -6,8 +8,6 @@ Soundtracks are an important piece in the composition of any T.V show and movie.
 Artfully placed pieces bring life and add an extra dimension of a moment. Music gives a higher chance of success because of how it entraps and guides the audience to the story as it unfolds. 
 
 My analysis looks at whether there is a variation in the musical composition of two popular T.V Shows that vary significantly in genre and theme.
-
-![MadMen and Whitelines](https://github.com/mishaisran/Projects/blob/master/Spotify%20API/Images/Header%20Project.png)
 
 - **Madmen** *is an American period-drama set in the 1960s about a New York advertising agency, focusing on their personal lives of the people and families who work there during the tumultuous and divisive decade.*
 - **Whitelines** *is a British-Spannish mystery thriller 
@@ -27,8 +27,6 @@ For this project, I scraped data from Spotify. I used Spotipy, "a lightweight Py
 | **Loudness**     | *The overall loudness of a track in decibels (dB). Loudness values are averaged across the entire track and are useful for comparing relative loudness of tracks. Loudness is the quality of a sound that is the primary psychological correlate of physical strength (amplitude).*          | 
 | **Speechiness**     | *Speechiness detects the presence of spoken words in a track. The more exclusively speech-like the recording (e.g. talk show, audio book, poetry), the closer to 1.0 the attribute value. Values above 0.66 describe tracks that are probably made entirely  of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and speech, either in sections or layered, including such cases as rap music. Values below 0.33 most likely represent music and other non-speech-like tracks.*| 
 | **Tempo**    | *The overall estimated tempo of a track in beats per minute (BPM).*          | 
-
-**Requirements**
 
 
 **Analysis of the Data**
