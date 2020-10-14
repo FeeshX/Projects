@@ -21,7 +21,7 @@ This findings...
 For this project, I scraped data from Spotify, which is a popular music streaming service. 
 I used Spotipy, "a lightweight Python library for the Spotify Web API", to access the data 
 for the two playlists. I extracted data on pre-defined audio features for all the songs 
-within the Madmen and Whitelies soundtrack. These are defined below: 
+within the Madmen and Whitelies soundtrack. These are defined below and can be accessed [here](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/): 
 
 - **Acousticness**: A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 
 1.0 represents high confidence the track is acoustic. 
@@ -48,5 +48,7 @@ of spoken words. Values between 0.33 and 0.66 describe tracks that may contain b
 and speech, either in sections or layered, including such cases as rap music. Values below
 0.33 most likely represent music and other non-speech-like tracks. 
 - **Tempo**: The overall estimated tempo of a track in beats per minute (BPM). 
+
+
 
 
