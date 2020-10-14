@@ -5,11 +5,14 @@
 **Overview**
 ---
 Soundtracks are an important piece in the composition of any T.V show and movie. 
-Artfully placed pieces bring life and add an extra dimension of a moment. Music gives a higher chance of success because of how it entraps and guides the audience to the story as it unfolds. My analysis looks at whether there is a variation in the musical composition of two popular T.V Shows that vary significantly in genre and theme. I extracted data on pre-defined audio features that reflect the characteristics of a song from Spotipy, a Python library for the Spotify Web API
+Artfully placed pieces bring life and add an extra dimension of a moment. Music gives a higher chance of success because of how it entraps and guides the audience to the story as it unfolds. 
 
 - **Madmen** *is an American period-drama set in the 1960s about a New York advertising agency, focusing on their personal lives of the people and families who work there during the tumultuous and divisive decade.*
+
 - **Whitelines** *is a British-Spannish mystery thriller 
 set between ‘90s Manchester and club-laden Ibiza about a woman investigating the suspicious and long-abandoned dissaparence of her free-spirited brother twenty years ago.*
+
+My analysis looks at whether there is a variation in the musical composition of two popular T.V Shows that vary significantly in genre and theme. I extracted data on pre-defined audio features that reflect the characteristics of a song from Spotipy, a Python library for the Spotify Web API.
 
 **Spotify Audio Features**
 ---
