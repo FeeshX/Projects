@@ -5,7 +5,7 @@
 **Overview**
 ---
 Soundtracks are an important piece in the composition of any T.V show and movie. 
-Artfully placed pieces bring life and add an extra dimension of a moment. Music gives a higher chance of success because of how it entraps and guides the audience to the story as it unfolds. My analysis looks at whether there is a variation in the musical composition of two popular T.V Shows that vary significantly in genre and theme.
+Artfully placed pieces bring life and add an extra dimension of a moment. Music gives a higher chance of success because of how it entraps and guides the audience to the story as it unfolds. My analysis looks at whether there is a variation in the musical composition of two popular T.V Shows that vary significantly in genre and theme. I extracted data on pre-defined audio features that reflect the characteristics of a song from Spotipy, a Python library for the Spotify Web API
 
 - **Madmen** *is an American period-drama set in the 1960s about a New York advertising agency, focusing on their personal lives of the people and families who work there during the tumultuous and divisive decade.*
 - **Whitelines** *is a British-Spannish mystery thriller 
@@ -13,7 +13,7 @@ set between ‘90s Manchester and club-laden Ibiza about a woman investigating t
 
 **Spotify Audio Features**
 ---
-For this project, I scraped data from Spotify. I used Spotipy, "a lightweight Python library for the Spotify Web API", to access the data for the two playlists. I extracted data on pre-defined audio features that reflect the characteristics of a song. The were used for comparison and are defined below (*further details available in Spotify's documentation [here](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)*): 
+The features retrieved from the API are defined below (*further details available in Spotify's documentation [here](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)*): 
 
 | Feature      | Value Description                                                    | 
 | :---         | :---              | 
