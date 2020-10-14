@@ -34,7 +34,13 @@ The diagram below shows the mean values of audio features.
 
 ![Mean Values](https://github.com/mishaisran/Projects/blob/master/Spotify%20API/Images/Mean%20values.PNG)
 
-According to the visual, Madmen has music that is high in acousticness, energy and danceability. This is typical of what one would expect in a 60s melodrama that is packed with instrumentals, funk-soul, pop-rock and classics. Whitelines in contrast, does lower in acousticness but high in energy and danceability as most of its soundtrack comprises of up-beat, electric, modern tunes. I next looked at how varied each playlist is. A very varied playlist encompasses songs from multiple genres. The opposite of this, a low varied playlist, is one where songs mostly fall under the same genre. For this the standard deviation of the audio features were calculated. Madmen has a greater variety in its song selection than Whitelines by a marginal amount.
+According to the visual, Madmen has music that is high in acousticness, energy and danceability. This is typical of what one would expect in a 60s melodrama that is packed with instrumentals, funk-soul, pop-rock and classics. Whitelines in contrast, does lower in acousticness but high in energy and danceability as most of its soundtrack comprises of up-beat, electric, modern tunes. 
+
+![Radar Chart](https://github.com/mishaisran/Projects/blob/master/Spotify%20API/Images/Mean%20values%20Radar%20Chart.PNG)
+
+I next looked at how varied each playlist is. A very varied playlist encompasses songs from multiple genres. The opposite of this, a low varied playlist, is one where songs mostly fall under the same genre. For this the standard deviation of the audio features were calculated. Madmen has a greater variety in its song selection than Whitelines by a marginal amount.
+
+![Variety](https://github.com/mishaisran/Projects/blob/master/Spotify%20API/Images/Variety.PNG)
 
 **Next Steps**
 ---
