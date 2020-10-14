@@ -42,6 +42,8 @@ I next looked at how varied each playlist is. A very varied playlist encompasses
 
 ![Variety](https://github.com/mishaisran/Projects/blob/master/Spotify%20API/Images/Variety.PNG)
 
+![MadMen and Whitelines](https://github.com/mishaisran/Projects/blob/master/Spotify%20API/Images/SD%20of%20shows.PNG)
+
 **Next Steps**
 ---
 When selecting tracks for upcoming productions, music directors can shortlist those that fit with ones that possess a similar audio feature profile (defined below) as the ones used in existing, successful T.V shows. This would provide a data-driven way to pair a show with a song based on past data rather than scanning thousands of tracks and spending hours finding the right tune. 
