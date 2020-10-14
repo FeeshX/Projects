@@ -57,7 +57,7 @@ Contributor  : <a href=https://github.com/Al-Cap>Misha Isran</a>
 <pre>
 Languages    : Python
 Tools/IDE    : Anaconda
-Libraries    : Spotipy, pandas, matplotlib, numpy
+Libraries    : Spotipy, pandas, matplotlib, numpy, time
 </pre>
   </tbody>
 </table>
