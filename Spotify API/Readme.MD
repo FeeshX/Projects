@@ -1,7 +1,7 @@
 **Overview**
 ---
 Soundtracks are an important piece in the composition of any T.V show and movie. 
-Artfully placed pieces bring life and add an extra dimension of a moment. Music gives a higher chance of success because of how it entraps and guides the audience to the story as it unfolds. This analysis looks at how musical composition of two popular T.V Shows that contrast significantly in terms of genre and theme vary.
+Artfully placed pieces bring life and add an extra dimension of a moment. Music gives a higher chance of success because of how it entraps and guides the audience to the story as it unfolds. This analysis compares the musical composition of two popular T.V Shows that vary significantly in genre and theme.
 
 ![MadMen and Whitelines](https://github.com/mishaisran/Projects/blob/master/Spotify%20API/Images/Header%20Project.png)
 
