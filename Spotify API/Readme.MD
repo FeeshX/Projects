@@ -1,5 +1,5 @@
-**Background**
-
+**Overview**
+---
 Soundtracks are an important piece in the composition of any T.V show and movie. 
 Artfully placed pieces bring life and add an extra dimension of a moment. Music gives a higher chance of success because of how it entraps and guides the audience to the story as it unfolds. This analysis looks at how musical composition of two popular T.V Shows that contrast significantly in terms of genre and theme vary.
 
@@ -8,8 +8,8 @@ Artfully placed pieces bring life and add an extra dimension of a moment. Music 
 set between ‘90s Manchester and club-laden Ibiza about a woman investigating the suspicious and long-abandoned dissaparence of her free-spirited brother twenty years ago.*
 
 **Method**
-
-For this project, I scraped data from Spotify. I used Spotipy, "a lightweight Python library for the Spotify Web API", to access the data for the two playlists. I extracted data on pre-defined audio features that reflect the characteristics of a song. These are defined below and can be accessed in Spotify's documentation [here](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/): 
+---
+For this project, I scraped data from Spotify. I used Spotipy, "a lightweight Python library for the Spotify Web API", to access the data for the two playlists. I extracted data on pre-defined audio features that reflect the characteristics of a song. The were used for comparison and are defined below (*further details available in Spotify's documentation [here](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)*: 
 
 - **Acousticness**: A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 
 1.0 represents high confidence the track is acoustic. 
@@ -41,7 +41,7 @@ and speech, either in sections or layered, including such cases as rap music. Va
 
 
 **Analysis of the Data**
-
+---
 The diagram below shows the mean values of audio features. 
 
 [diagram here]
@@ -49,5 +49,17 @@ The diagram below shows the mean values of audio features.
 According to the visual, Madmen has music that is high in acousticness, energy and danceability. This is typical of what one would expect in a 60s melodrama that is packed with instrumentals, funk-soul, pop-rock and classics. Whitelines in contrast, does lower in acousticness but high in energy and danceability as most of its soundtrack comprises of up-beat, electric, modern tunes. I next looked at how varied each playlist is. A very varied playlist encompasses songs from multiple genres. The opposite of this, a low varied playlist, is one where songs mostly fall under the same genre. For this the standard deviation of the audio features were calculated. Madmen has a greater variety in its song selection than Whitelines by a marginal amount.
 
 **Next Steps**
-
+---
 When selecting tracks for upcoming productions, music directors can shortlist those that fit with ones that possess a similar audio feature profile (defined below) as the ones used in existing, successful T.V shows. This would provide a data-driven way to pair a show with a song based on past data rather than scanning thousands of tracks and spending hours finding the right tune. 
+
+**Project Info**
+---
+<pre>
+Contributor  : <a href=https://github.com/Al-Cap>Misha Isran</a>
+</pre>
+
+<pre>
+Languages    : Python
+Tools/IDE    : Anaconda
+Libraries    : Spotipy, pandas, matplotlib, numpy
+</pre>
