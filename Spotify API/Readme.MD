@@ -38,7 +38,7 @@ According to the visual, Madmen has music that is high in acousticness, energy a
 
 ![Radar Chart](https://github.com/mishaisran/Projects/blob/master/Spotify%20API/Images/Mean%20values%20Radar%20Chart.PNG)
 
-I next looked at how varied each playlist is. A very varied playlist encompasses songs from multiple genres. The opposite of this, a low varied playlist, is one where songs mostly fall under the same genre. For this the standard deviation of the audio features were calculated. Madmen has a mean S.D of 0.195 and a greater variety in its song selection than Whitelines with a mean S.D of 0.146 by a marginal amount. Madmen has the greatest variety in songs within the acousticness characteristic whereas Whitelines has the greatest variety in acousticness.
+I next looked at how varied each playlist is. A very varied playlist encompasses songs from multiple genres. The opposite of this, a low varied playlist, is one where songs mostly fall under the same genre. For this the standard deviation of the audio features were calculated. Madmen has a mean S.D of 0.195 and a greater variety in its song selection than Whitelines with a mean S.D of 0.146 by a marginal amount. Madmen has the greatest variety in songs within the instrumentalness characteristic whereas Whitelines has the greatest variety in acousticness.
 
 ![Variety](https://github.com/mishaisran/Projects/blob/master/Spotify%20API/Images/Variety.PNG)
 
