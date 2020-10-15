@@ -14,7 +14,7 @@ set between ‘90s Manchester and present-day club-laden Ibiza about a woman inv
 
 **Spotify Audio Features**
 ---
-I extracted data on pre-defined audio features that reflect the characteristics of a song from Spotipy, a Python library for the Spotify Web API. The resulting dataset is 98 rows and 15 columns for the Whitelines soundtrack and 100 rows and 15 columns for the Madmen soundtrack. Each row reflects a track on the playlist. The features retrieved from the API are defined below (*further details available in Spotify's documentation [here](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)*): 
+To access Spotify's API, I created a developer account. Once the account was created, I was provided a 'client id' and 'client secret' as authorization credentials to use within my code. I extracted data on pre-defined audio features that reflect the characteristics of a song from Spotipy, a Python library for the Spotify Web API. The resulting dataset is 98 rows and 15 columns for the Whitelines soundtrack and 100 rows and 15 columns for the Madmen soundtrack. Each row reflects a track on the playlist. The features retrieved from the API are defined below (*further details available in Spotify's documentation [here](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)*): 
 
 | Feature      | Value Description                                                    | 
 | :---         | :---              | 
