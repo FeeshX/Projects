@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Zou Bisou Bisou,Twistin'The Rock Vol 9,Gillian Hills,2002-01-01,135653,0,0.889,0.769,0.483,0.0102,0.0626,-9.177,0.0381,130.991,4
+1,Rain Drop Sounds,Rain Drops,Rain Radiance,2019-11-03,43720,28,0.731,0.147,0.759,0.986,0.564,-29.784,0.0824,137.609,3
+2,Shahdaroba,In Dreams,Roy Orbison,1963-07,159240,0,0.711,0.482,0.451,0.00131,0.175,-9.285,0.0286,109.323,4
+3,Piano Relax,Relaxing Music,Study Radiance,2020-06-05,179336,34,0.928,0.18,0.147,0.814,0.117,-21.187,0.0604,76.433,4
+4,Manhattan,Essential Ella,Ella Fitzgerald,1994-01-01,172026,0,0.901,0.431,0.327,0.0,0.187,-8.574,0.031,115.435,3
+5,The End of the World,The Essential Skeeter Davis,Skeeter Davis,1994-05-23,157573,60,0.936,0.232,0.216,4.93e-06,0.246,-10.674,0.0314,94.268,3
+6,On The Street Where You Live,Mad Men (Music From The Television Series),Various Artists,2008-01-01,162133,0,0.814,0.28,0.526,1.36e-05,0.277,-6.701,0.0338,61.186,4
+7,You Don't Have To Say You Love Me,Classic Dusty Springfield - The Universal Masters Collection,Dusty Springfield,2000-01-01,169400,0,0.476,0.268,0.622,0.0,0.0624,-5.416,0.0372,111.538,3
+8,Fly Me To The Moon (In Other Words),Mad Men (Music From The Television Series),Various Artists,2008-01-01,151346,0,0.657,0.347,0.577,0.000544,0.0739,-8.637,0.0454,173.176,4
+9,"I Can Dream, Can't I?",Mad Men (Music From The Television Series),Various Artists,2008-01-01,160733,0,0.965,0.277,0.162,0.0,0.108,-7.46,0.0291,175.429,4
+10,You Only Live Twice,James Bond 007 13 Original Themes,Various Artists,1983,165200,0,0.115,0.188,0.342,9.03e-05,0.0762,-14.212,0.0324,87.892,4
+11,There's a Small Hotel,"Music Used in the TV Serie ""Mad Men"" Season Two & Three",Various Artists,2012-07-28,216866,0,0.661,0.364,0.197,0.0,0.403,-12.978,0.0345,103.544,4
+12,My Special Angel,Best Of Doo Wop,Various Artists,2008-01-23,181453,0,0.654,0.491,0.309,0.0,0.16,-8.427,0.0252,78.693,4
+13,Blue Room,"Music Used in the TV Serie ""Mad Men"" Season Two & Three",Various Artists,2012-07-28,213106,0,0.965,0.227,0.106,0.00679,0.143,-18.214,0.064,74.744,1
+14,To Be Loved - Forever,"Music Used in the TV Serie ""Mad Men"" Season Two & Three",Various Artists,2012-07-28,145013,0,0.818,0.492,0.29,0.0,0.263,-10.52,0.0252,67.699,4
+15,You,The Very Best Of,The Aquatones,2011-02-01,119480,14,0.852,0.273,0.65,1.06e-06,0.211,-5.055,0.0376,116.14,3
+16,Welcome to My World,The Essential Jim Reeves,Jim Reeves,1997-02-14,152600,51,0.725,0.341,0.252,0.0594,0.287,-14.869,0.0288,81.058,4
+17,Volare,Mad Men (Music From The Television Series),Various Artists,2008-01-01,160253,0,0.878,0.658,0.226,0.0,0.139,-8.871,0.0493,121.68,4
+18,Agua De Beber,The Astrud Gilberto Album,Astrud Gilberto,1965-01-01,138112,0,0.426,0.645,0.357,0.0,0.0727,-15.628,0.0356,147.846,4
+19,Walk On By,Hit Maker!,Burt Bacharach,1997-01-01,183026,0,0.582,0.435,0.48,0.929,0.34,-10.137,0.0295,95.783,4
+20,"Lucía Y El Sexo. ""Me Voy A Morir De Tanto Amor""","Una Música De Cine Español, Volumen 1",Various Artists,2003-07-07,162453,27,0.981,0.186,0.183,0.897,0.122,-16.36,0.0408,147.894,3
+21,Break It to Me Gently,Hits,Brenda Lee,2012-12-11,154777,0,0.759,0.521,0.341,0.0,0.167,-5.608,0.0262,93.071,3
+22,Stranger On The Shore,The Fabulous Mr. Acker Bilk,Acker Bilk,2005,197826,20,0.528,0.252,0.303,0.925,0.11,-13.59,0.0327,73.62,4
+23,Misirlou - 1995 Digital Remaster,Best Of Martin Denny's Exotica,Martin Denny,2006-01-01,158653,38,0.608,0.556,0.293,8.18e-05,0.326,-18.801,0.0315,111.259,4
+24,Lollipops And Roses,The Best Of Jack Jones,Jack Jones,2003-01-01,252308,0,0.686,0.243,0.192,0.000151,0.149,-15.292,0.033,131.148,5
+25,Non Dimenticar,Percy Faith'S Greatest Hits,Percy Faith & His Orchestra,1953,179666,30,0.929,0.156,0.34,0.939,0.449,-12.952,0.0317,81.86,4
+26,Sukiyaki,Lost Hits Of The 60's (All Original Artists & Versions),Various Artists,2010-01-01,189520,48,0.707,0.415,0.359,6.53e-05,0.319,-11.094,0.0334,146.029,4
+27,The Christmas Waltz,The Doris Day Christmas Album,Doris Day,1964-09-14,171400,20,0.892,0.243,0.336,4.86e-05,0.131,-9.812,0.0282,89.158,3
+28,Night and Day,Solo in Rio 1959,Luiz Bonfá,2005-02-22,130173,32,0.684,0.477,0.0896,0.925,0.0999,-16.929,0.0661,182.191,3
+29,Caravan,Music For Mad Men - Swingin' Jazz,Various Artists,2008-10-07,133426,0,0.72,0.47,0.44,0.846,0.353,-9.262,0.028,102.971,4
+30,I Just Wasn't Made For These Times - Remastered,Pet Sounds (Original Mono & Stereo Mix Versions),The Beach Boys,1966-06-16,195533,47,0.513,0.22,0.581,0.0,0.168,-5.877,0.0374,186.427,4
+31,Song Of The Volga Boatmen,Big Bands Of The Swingin' Years: Glenn Miller (Digitally Remastered),Glenn Miller,2010-11-09,184320,0,0.939,0.779,0.306,0.857,0.0818,-9.238,0.071,128.418,4
+32,Song to Woody,Bob Dylan,Bob Dylan,1962-03-19,160000,44,0.913,0.53,0.257,0.0299,0.11,-13.968,0.0332,95.538,1
+33,I Should Not Be Seeing You,"The Very Best Of Connie Conway, Vol. 1",Connie Conway,2012-08-14,170952,35,0.903,0.561,0.142,0.00174,0.135,-12.419,0.0381,75.991,4
+34,He Hit Me (It Felt Like a Kiss),Da Doo Ron Ron: The Very Best of The Crystals,The Crystals,2011-02-22,153266,33,0.571,0.59,0.322,3.6e-05,0.104,-8.987,0.0263,99.623,4
+35,Sweepin' the Clouds Away,Sweepin' the Clouds Away,Maurice Chevalier,2012-06-18,162194,19,0.981,0.547,0.311,0.0,0.243,-8.965,0.067,178.101,4
+36,"Don't Think Twice, It's All Right - mono version",The Freewheelin' Bob Dylan (2010 Mono Version),Bob Dylan,1963-05-27,217613,0,0.943,0.57,0.208,0.00496,0.199,-16.096,0.0376,110.18,4
+37,Tobacco Road,Pure 60s,Various Artists,2007-09-24,147733,23,0.876,0.658,0.384,1.88e-05,0.257,-11.47,0.108,135.45,4
+38,The Choo-Choo-Cha-Cha - Remastered,Ultra-Lounge/Cha-Cha De Amor,Various Artists,1996-01-01,147906,31,0.572,0.934,0.49,0.0,0.111,-10.005,0.0628,122.624,4
+39,Blue in Green,Kind Of Blue (Legacy Edition),Miles Davis,1959-08-17,337733,65,0.81,0.421,0.0161,0.0021,0.0978,-25.358,0.0374,110.926,4
+40,The Christmas Waltz,A Very She & Him Christmas,She & Him,2011-10-25,157453,0,0.905,0.559,0.106,0.00495,0.268,-12.976,0.0379,113.231,3
+41,Where Is Love,Oliver The Musical,Lionel Bart,2011-08-28,171088,10,0.922,0.26,0.119,0.0,0.156,-14.272,0.0318,136.233,3
+42,Gopher Mambo - Remastered 2009,Mambo!,Yma Sumac,1954,137240,37,0.817,0.604,0.431,6.78e-06,0.0921,-10.982,0.11,152.952,4
+43,Ladder Of Success,"Skeeter Davis: The Pop Hits Collection, Volume 1",Skeeter Davis,2003-03-21,129573,26,0.78,0.528,0.551,0.0,0.373,-6.328,0.0315,134.574,4
+44,"Bye Bye Birdie - From the Columbia Pictures Production ""Bye Bye Birdie""",Let Me Entertain You,Ann-Margret,1996-07-29,131266,18,0.842,0.562,0.839,0.0,0.357,-4.206,0.05,115.52,4
+45,The 'In' Crowd - Instrumental,Mighty Aphrodite - Original Soundtrack,Various Artists,1995-11-07,350333,21,0.513,0.662,0.583,0.0457,0.964,-16.027,0.0789,142.313,4
+46,The Twist - Rerecorded,#1 Hits Of The 60's,Various Artists,2009-09-30,158560,40,0.0188,0.524,0.713,0.0058,0.0402,-12.848,0.0314,155.033,4
+47,Butchie's Tune,Original Album Classics,The Lovin' Spoonful,1968,155173,0,0.512,0.62,0.463,0.0209,0.0429,-11.032,0.0324,87.07,4
+48,Telstar,Mad Men,Various Artists,2011-09-01,179733,0,0.647,0.49,0.414,0.000399,0.248,-9.494,0.0264,149.016,4
+49,Swingin' Saints,"Backyard Bonanza, Vol. 1",Various Artists,2010-06-15,137653,19,0.505,0.505,0.935,0.802,0.155,-8.963,0.0801,120.535,4
+50,Casino Royale,Sounds Like,Herb Alpert & The Tijuana Brass,1967,155973,0,0.61,0.703,0.539,0.583,0.0682,-9.284,0.0391,136.824,4
+51,Song of India,Classical for the New Age,Various Artists,2010-05-01,189973,16,0.835,0.108,0.173,0.741,0.152,-18.983,0.0377,92.13,4
+52,Cup of Loneliness,"Music Used in the TV Serie ""Mad Men"" Season Two & Three",Various Artists,2012-07-28,157040,0,0.808,0.472,0.443,0.0,0.141,-9.155,0.0289,146.047,4
+53,Sixteen Tons,"Music Used in the TV Serie ""Mad Men"" Season Two & Three",Various Artists,2012-07-28,158066,0,0.833,0.734,0.243,0.0,0.203,-15.168,0.231,143.372,4
+54,Dominique,More Romantic Golden Days,Various Artists,2010-12-21,177706,0,0.923,0.76,0.189,0.0,0.117,-14.909,0.151,134.615,4
+55,Botch-A-Me - 2004 Digital Remaster,Mad Men (Music From The Television Series),Various Artists,2008-01-01,138413,0,0.843,0.634,0.75,0.0,0.13,-5.457,0.0897,148.84,4
+56,Let's Twist Again,"Music Used in the TV Serie ""Mad Men"" Season Two & Three",Various Artists,2012-07-28,143266,0,0.0166,0.57,0.472,0.0,0.06,-15.767,0.0537,162.741,4
+57,I Got You Babe,Cher's Greatest Hits: 1965-1992,Cher,1992-11-09,191693,26,0.216,0.624,0.78,4.36e-06,0.152,-7.28,0.0257,110.598,3
+58,Sidewalk Surfin',Surfin' Beach Party (Digitally Remastered),The Beach Boys,2010-10-26,127293,0,0.36,0.542,0.65,0.0,0.299,-12.605,0.0324,137.655,4
+59,(I Can't Get No) Satisfaction,GRRR! (Deluxe Version),The Rolling Stones,2012-01-01,223320,0,0.0437,0.725,0.855,0.109,0.258,-7.844,0.0365,136.329,4
+60,You Really Got Me,Waterloo Sunset: The Best Of The Kinks And Ray Davies,The Kinks,2012-08-13,133200,0,0.0913,0.565,0.964,0.000306,0.0831,-3.045,0.101,137.375,4
+61,Misery - Single Version,Mad Men: Don Draper,Various Artists,2009-01-01,147946,9,0.392,0.623,0.538,6.42e-05,0.0823,-7.784,0.0443,116.402,4
+62,Smoke Gets In Your Eyes,Mad Men: Don Draper,Various Artists,2009-01-01,158106,14,0.87,0.319,0.362,0.00955,0.297,-7.167,0.0291,112.555,4
+63,Late Freight,Mad Men: Don Draper,Various Artists,2009-01-01,230693,6,0.606,0.496,0.485,0.00214,0.377,-8.154,0.0271,103.964,4
+64,The Big Wheel,Mad Men: Don Draper,Various Artists,2009-01-01,189800,6,0.38,0.5,0.656,0.000809,0.422,-5.637,0.0327,165.884,4
+65,More (Theme From Mondo Cane),Mad Men: Don Draper,Various Artists,2009-01-01,122080,8,0.014,0.415,0.657,0.886,0.238,-9.947,0.0324,133.792,4
+66,Everybody's Somebody's Fool,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,157906,0,0.626,0.591,0.703,0.0,0.151,-5.789,0.0278,84.242,4
+67,Baby (You've Got What It Takes),Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,164400,0,0.856,0.686,0.524,0.000186,0.589,-9.887,0.0425,132.42,4
+68,Lady Luck,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,133960,0,0.373,0.597,0.65,0.0,0.221,-5.408,0.0317,122.39,4
+69,Frankie & Johnny,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,146813,0,0.562,0.591,0.742,0.0,0.733,-10.112,0.0814,137.646,4
+70,I'm Coming Back To You,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,140186,0,0.716,0.522,0.808,3.26e-05,0.561,-4.866,0.0818,79.743,4
+71,Gonzo,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,144013,0,0.388,0.471,0.434,0.753,0.121,-9.602,0.0331,63.335,4
+72,(I Don't Know Why) But I Do,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,139546,0,0.536,0.656,0.541,0.0,0.285,-5.628,0.028,109.726,4
+73,Travelin' Man,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,140840,0,0.67,0.739,0.421,0.0,0.141,-9.519,0.0334,123.21,4
+74,Desafinado,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,348880,0,0.727,0.568,0.428,0.0952,0.131,-14.765,0.0858,88.116,4
+75,Hey! Baby - Single Version,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,142213,0,0.393,0.624,0.6,0.0,0.205,-7.115,0.0376,129.385,4
+76,Rinky Dink,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,170813,0,0.0426,0.755,0.642,0.895,0.0397,-6.38,0.0489,112.653,4
+77,Swingin' Gently,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,160573,0,0.689,0.66,0.538,0.825,0.0977,-10.53,0.0296,102.098,4
+78,Fly Me To The Moon,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,142626,0,0.609,0.663,0.472,0.0633,0.203,-10.332,0.0473,87.731,4
+79,Something's Got A Hold On Me,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,166466,0,0.621,0.466,0.577,0.0,0.423,-5.895,0.103,153.689,4
+80,Comin' Home Baby,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,163026,0,0.541,0.643,0.535,0.0,0.216,-8.137,0.0453,142.439,4
+81,Bill Bailey Won't You Please Come Home,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,203373,0,0.386,0.595,0.672,0.0,0.928,-3.798,0.0626,132.537,4
+82,Wives And Lovers,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,148706,0,0.712,0.411,0.63,0.0,0.392,-8.095,0.0417,128.677,3
+83,King Of The Road,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,145293,0,0.689,0.699,0.351,0.0,0.112,-10.483,0.0535,119.594,4
+84,You're Nobody 'Til Somebody Loves You,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,116853,0,0.772,0.462,0.558,0.0,0.393,-7.432,0.0372,108.5,4
+85,You Never Can Tell,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,161333,0,0.639,0.586,0.875,1.17e-05,0.283,-8.219,0.124,157.306,4
+86,I Only Want To Be With You,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,154946,0,0.216,0.587,0.827,0.0,0.226,-4.233,0.0348,132.913,4
+87,That's The Way Boys Are,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,133653,0,0.687,0.492,0.644,1.88e-05,0.103,-6.501,0.0342,125.934,4
+88,Talking About My Baby,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,150120,0,0.512,0.567,0.576,0.0,0.0751,-8.089,0.177,130.259,4
+89,Selfish One,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,196853,0,0.411,0.596,0.542,0.0,0.499,-7.516,0.0383,116.495,4
+90,Do Wah Diddy Diddy,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,141640,0,0.265,0.646,0.668,0.0,0.0688,-4.482,0.0479,125.677,4
+91,Shotgun,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,183880,0,0.0315,0.722,0.554,0.000856,0.14,-7.763,0.0351,120.297,4
+92,Ain't That Peculiar,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,178600,0,0.556,0.56,0.79,0.0,0.566,-7.755,0.0477,80.839,4
+93,It's Not Unusual,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,119413,0,0.454,0.518,0.675,0.0,0.189,-8.095,0.0562,92.06,4
+94,Wooly Bully,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,139906,0,0.751,0.602,0.73,1.54e-06,0.23,-7.673,0.067,139.889,4
+95,She's About A Mover,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,141840,0,0.203,0.665,0.871,2.8e-05,0.0493,-5.528,0.028,88.83,4
+96,I Got You Babe,Mad Men: A Musical Companion (1960-1965),Various Artists,2011-01-01,190880,0,0.237,0.622,0.781,1.31e-06,0.0993,-6.103,0.0258,110.57,3
+97,Everybody's Somebody's Fool,Mad Men: Betty Draper,Various Artists,2009-10-26,158760,0,0.666,0.474,0.706,2.06e-06,0.231,-5.868,0.0329,168.165,4
+98,Too Many Secrets - Album Version (4-Star Master),Mad Men: Betty Draper,Various Artists,2009-10-26,136506,0,0.83,0.551,0.407,0.0,0.311,-6.284,0.0421,178.471,4
+99,Blue Cinderella - Single Version,Mad Men: Betty Draper,Various Artists,2009-10-26,127120,0,0.674,0.661,0.455,0.00045,0.291,-11.252,0.0272,92.416,3
