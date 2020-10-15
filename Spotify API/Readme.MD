@@ -50,7 +50,7 @@ The last comparative variable I analysed was song release year. As shown in the 
 
 **Next Steps**
 ---
-When selecting tracks for upcoming productions, music directors can shortlist those that fit with ones that possess a similar audio feature profile (defined below) as the ones used in existing, successful T.V shows. This would provide a data-driven way to pair a show with a song based on past data rather than scanning thousands of tracks and spending hours finding the right tune. The analysis shows that there is a slight difference between the soundtracks of the Madmen and Whitelines soundtrack in areas such as energy, danceability, liveness and tempo but a significant difference in other audio features such as acousticness and release year.
+When selecting tracks for upcoming productions, music directors can shortlist those that fit with ones that possess a similar audio feature profile (defined below) as the ones used in existing, successful T.V shows. This would provide a data-driven way to pair a show with a song based on past data rather than scanning thousands of tracks and spending hours finding the right tune. The analysis shows that there is a slight difference between the soundtracks of the Madmen and Whitelines in areas such as energy, danceability, liveness and tempo but a significant difference in other audio features such as acousticness and release year.
 
 **Project Info**
 ---
