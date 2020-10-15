@@ -1,4 +1,4 @@
-## **Music Analysis of the Madmen and Whitelines Soundtracks using the Spotify API and Python**
+## **Music Analysis of Two T.V Show Soundtracks using the Spotify API and Python**
 
 ![MadMen and Whitelines](https://github.com/mishaisran/Projects/blob/master/Spotify%20API/Images/Header%20Project.png)
 
