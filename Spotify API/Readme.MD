@@ -38,7 +38,7 @@ According to the visual, Madmen has music that is high in acousticness, energy a
 
 ![Radar Chart](https://github.com/mishaisran/Projects/blob/master/Spotify%20API/Images/Mean%20values%20Radar%20Chart.PNG)
 
-I next looked at how varied each playlist is. A very varied playlist encompasses songs from multiple genres. The opposite of this, a low varied playlist, is one where songs mostly fall under the same genre. For this the standard deviation of the audio features were calculated. Madmen has a mean S.D of 0.195 and a greater variety in its song selection than Whitelines with a mean S.D of 0.146 by a marginal amount.
+I next looked at how varied each playlist is. A very varied playlist encompasses songs from multiple genres. The opposite of this, a low varied playlist, is one where songs mostly fall under the same genre. For this the standard deviation of the audio features were calculated. Madmen has a mean S.D of 0.195 and a greater variety in its song selection than Whitelines with a mean S.D of 0.146 by a marginal amount. Madmen has the greatest variety in songs within the acousticness characteristic whereas Whitelines has the greatest variety in acousticness.
 
 ![Variety](https://github.com/mishaisran/Projects/blob/master/Spotify%20API/Images/Variety.PNG)
 
@@ -50,7 +50,7 @@ The last comparative variable I analysed was song release year. As shown in the 
 
 **Next Steps**
 ---
-When selecting tracks for upcoming productions, music directors can shortlist those that fit with ones that possess a similar audio feature profile (defined below) as the ones used in existing, successful T.V shows. This would provide a data-driven way to pair a show with a song based on past data rather than scanning thousands of tracks and spending hours finding the right tune. 
+When selecting tracks for upcoming productions, music directors can shortlist those that fit with ones that possess a similar audio feature profile (defined below) as the ones used in existing, successful T.V shows. This would provide a data-driven way to pair a show with a song based on past data rather than scanning thousands of tracks and spending hours finding the right tune. The analysis shows that there is a slight difference between the soundtracks of the Madmen and Whitelines soundtrack in areas such as energy, danceability, liveness and tempo but a significant difference in other audio features such as acousticness and release year.
 
 **Project Info**
 ---
