@@ -46,7 +46,7 @@ I next looked at how varied each playlist is. A very varied playlist encompasses
 
 The last comparative variable I analysed was song release year. As shown in the diagram below, Whitelines comprises mostly of new, modern tracks that were produced from 2016 and ahead, whereas Madmen has a versatile playlist with songs spanning decades from the 1950's all the way to 2020. 
  
- ![Variety](https://github.com/mishaisran/Projects/blob/master/Spotify%20API/Images/Soundtracks%20by%20Release%20Year.PNG)
+ ![Soundtracks by Release Year](https://github.com/mishaisran/Projects/blob/master/Spotify%20API/Images/Soundtracks%20by%20Release%20Year.PNG)
 
 **Next Steps**
 ---
