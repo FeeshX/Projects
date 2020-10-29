@@ -41,3 +41,6 @@ Libraries    : pandas, numpy, sklearn, labelencoder, logisticregression
 </pre>
   </tbody>
 </table>
+
+
+###### *Coding has been worked off of the DataCamp project*
