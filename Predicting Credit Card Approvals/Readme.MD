@@ -2,6 +2,13 @@
 
 ![Cover](https://github.com/mishaisran/Projects/blob/master/Predicting%20Credit%20Card%20Approvals/Images/Cover_CCA.PNG)
 
+**Navigating this Repo**
+---
+* [Dataset](https://github.com/mishaisran/Projects/blob/master/Predicting%20Credit%20Card%20Approvals/Data/cc_apps.data) Retrived from the following [link](http://archive.ics.uci.edu/ml/datasets/credit+approval)
+* [Notebook](https://github.com/mishaisran/Projects/blob/master/Predicting%20Credit%20Card%20Approvals/Code/CC_Apps_ML_.ipynb) Jupyter notebook used to clean, organize and analyze data.
+* [Readme](https://github.com/mishaisran/Projects/blob/master/Predicting%20Credit%20Card%20Approvals/Readme.MD) An overview of the dataset, method and summary of analysis.
+* [License](https://github.com/mishaisran/Projects/blob/master/LICENSE) - MIT License
+
 **Overview**
 ---
 In this project, I use the Credit Card Approval Dataset from the UCI Machine Learning Repository to build a machine learning model that can predict whether an individual's application for a credit card will be approved or denied. The objective to is decide the outcome of a credit application based on attributes such as income, age, employment status, credit history etc. 
@@ -10,7 +17,7 @@ The process of reviewing applications manually is time-consuming and is prone to
 
 **Dataset**
 ---
-I use the Credit Approval Dataset from the UCI Machine Learning Repo, available here: *http://archive.ics.uci.edu/ml/datasets/credit+approval*. 
+I use the Credit Approval Dataset from the UCI Machine Learning Repo, available [here](http://archive.ics.uci.edu/ml/datasets/credit+approval)
 
 | Feature      | Description                                                    | 
 | :---         | :---              | 
