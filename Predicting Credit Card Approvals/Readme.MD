@@ -31,7 +31,7 @@ I use the Credit Approval Dataset from the UCI Machine Learning Repo, available 
 
 This dataset is fascinating because there are a good mix of attributes: continuous, nominal with small numbers of values, and nominal with larger numbers of values. Since this data is confidential, the feature names have been anonymized. There are also a few missing values. For numeric values, mean imputation was used to replace the NaN values - a method in which the missing value on a certain variable is replaced by the mean of the available cases to replace these values. For the columns that contained non-numeric data where mean imputation I imputed the missing values with the most frequent values in the respective column. This method allows me to maintain the sample size. We drop two columns, DriversLicense and ZipCode, as they are not essential features for determining approval for a credit card. 
 
-**Result**
+**Conclusion**
 ---
 I used a confusion matrix to describe the performance of this classification model as it is important to check whether our machine learning model is able to predict the approval status of the applications as denied that had originally been denied. The first analysis was made by calculating the confusion matrix function from sklearn.metrics for predicting credit card approval and disapproval status, the results obtained were ([[60, 10],[13, 55]]) and accuracy of logistic regression classifier: 0.8333333333333334 ~ 84%. This is a good percentage reflecting high accuracy. 
 
