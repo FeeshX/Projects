@@ -24,7 +24,7 @@ This dataset is fascinating because there are a good mix of attributes: continuo
 
 **Result**
 ---
-I used a confusion matrix to describe the performance of this classification model as it is important to check whether our machine learning model is able to predict the approval status of the applications as denied that had originally been denied. The first analysis was made by calculating the confusion matrix function from sklearn.metrics for predicting credit card approval and disapproval status, the results obtained were ([[60, 10],[13, 55]]) and accuracy of logistic regression classifier: 0.8333333333333334. This is a good percentage reflecting high accuracy. 
+I used a confusion matrix to describe the performance of this classification model as it is important to check whether our machine learning model is able to predict the approval status of the applications as denied that had originally been denied. The first analysis was made by calculating the confusion matrix function from sklearn.metrics for predicting credit card approval and disapproval status, the results obtained were ([[60, 10],[13, 55]]) and accuracy of logistic regression classifier: 0.8333333333333334 ~ 84%. This is a good percentage reflecting high accuracy. 
 
 However, to improve the model’s ability to predict credit card approvals, a grid search was performed on two parameters: tolerance for stopping criteria and maximum number of iterations. The values inputted were: tol = [0.01, 0.001 ,0.0001] and max_iter = [100, 150, 200]. Grid Search used a five-fold cross-validation and the best score achieved was 0.852174 ~ 85%.
 
