@@ -1,4 +1,4 @@
-## **Predicting Credit Card Approval using ML Techniques**
+## **Predicting Credit Card Approval using Machine Learning Techniques**
 
 ![Cover](https://github.com/mishaisran/Projects/blob/master/Predicting%20Credit%20Card%20Approvals/Images/Cover_CCA.PNG)
 
@@ -11,7 +11,7 @@
 
 **Overview**
 ---
-In this project, I use the Credit Card Approval Dataset from the UCI Machine Learning Repository to build a machine learning model that can predict whether an individual's application for a credit card will be approved or denied. The objective to is decide the outcome of a credit application based on attributes such as income, age, employment status, credit history etc. 
+In this project, I use the Credit Card Approval Dataset from the UCI Machine Learning Repository to build a machine learning model that can predict whether an individual's application for a credit card will be approved or denied. Typically banks create customer profiles The objective to is decide the outcome of a credit application based on attributes such as income, age, employment status, credit history etc. 
 
 The process of reviewing applications manually is time-consuming and is prone to error. However, with the power of Machine Learning, we can automate this task. Predicting whether an individual has been approved for a credit card is a classification problem. Logistic regression is used because we are predicting binary classes i.e. the probability that a response falls into two possible outcomes of whether an application will be accepted or denied. 
 
