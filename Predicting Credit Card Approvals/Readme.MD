@@ -1,4 +1,4 @@
-## **Predicting Credit Card Approval using ML Techniques (draft)**
+## **Predicting Credit Card Approval using ML Techniques**
 
 ![Cover](https://github.com/mishaisran/Projects/blob/master/Predicting%20Credit%20Card%20Approvals/Images/Cover_CCA.PNG)
 
