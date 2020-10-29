@@ -30,7 +30,7 @@ Contributor  : <a href=https://github.com/Al-Cap>Misha Isran</a>
 <pre>
 Languages    : Python
 Tools/IDE    : Google Collab
-Libraries    : pandas, matplotlib, numpy, sklearn
+Libraries    : pandas, numpy, sklearn, labelencoder, logisticregression
 </pre>
   </tbody>
 </table>
