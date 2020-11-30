@@ -11,7 +11,7 @@ The City of Baltimore Department of General Services (DGS) is responsible for pr
 •	Energy usage is an important indicator that DGS references in many areas including allocation in the agency budget, setting agency rental rates, understanding a building’s total cost of ownership, the efficiency of assets and proposed retro commissioning of assets. These characteristics ultimately help DGS strategically identify cost effective and efficient means to support entities that occupy these facilities in carrying their programming needs. 
 
 **Sustainability**
-•	According to the Office of Sustainability, 70 percent of carbon emissions in Baltimore City are from buildings. Carbon emissions are related to building energy consumption due to the types of fuels consumed. Fuel sources such as coal or natural gas have higher carbon emissions potential than renewable sources such as solar or wind. The dataset provided excludes facilities that receive solar credits and focuses on buildings that receive fuel mix from the PJM grid that BGE provides.
+•	According to the Office of Sustainability, 70 percent of carbon emissions in Baltimore City are from buildings. Carbon emissions are related to building energy consumption due to the types of fuels consumed. Fuel sources such as coal or natural gas have higher carbon emissions potential than renewable sources such as solar or wind. 
 
 **Dataset**
 ---
