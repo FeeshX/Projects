@@ -1,7 +1,5 @@
 ## **Decreasing Traffic Fatality in the U.S**
 
-![Cover](https://github.com/mishaisran/Projects/blob/master/Decreasing%20Traffic%20Fatality%20in%20the%20U.S/Photos/accident-involving-many-cars-road_30478-5041.jpg)
-
 **Table and Contents**
 ---
 * [Dataset](https://github.com/mishaisran/Projects/blob/master/Predicting%20Credit%20Card%20Approvals/Data/cc_apps.data) - Retrived from the following [link](http://archive.ics.uci.edu/ml/datasets/credit+approval)
