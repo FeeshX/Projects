@@ -25,7 +25,7 @@ The goal of this project is to categorize States that have similar profiles in t
 
 **Table and Contents**
 ---
-* [Datasets](https://github.com/mishaisran/Projects/tree/master/Decreasing%20Traffic%20Fatality%20in%20the%20U.S/Datasets) 
+* [Datasets](https://github.com/mishaisran/Projects/tree/master/Decreasing%20Traffic%20Fatality%20in%20the%20U.S/Datasets) - Datasets using in the analysis.
 * [Notebook](https://github.com/mishaisran/Projects/blob/master/Decreasing%20Traffic%20Fatality%20in%20the%20U.S/Notebook/traffic_fatality.ipynb) - Jupyter notebook used to clean, organize and analyze data.
 * [Readme](https://github.com/mishaisran/Projects/blob/master/Decreasing%20Traffic%20Fatality%20in%20the%20U.S/Readme.MD) - An overview of the dataset, method and summary of analysis.
 * [License](https://github.com/mishaisran/Projects/blob/master/LICENSE) - MIT License
