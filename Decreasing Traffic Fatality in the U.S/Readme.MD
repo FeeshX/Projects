@@ -38,9 +38,10 @@ Contributor  : <a href=https://github.com/Al-Cap>Misha Isran</a>
 </pre>
 
 <pre>
-Languages    : Python
+Languages    : Python 3.8.3
 Tools/IDE    : Jupyter Notebook
-Libraries    : pandas, numpy, sklearn, labelencoder, logisticregression
+Libraries    : pandas 1.0.5, sklearn, matplotlib, seaborn
+Methods      : Data wrangling, plotting, dimensionality reduction, and K-means clustering.
 </pre>
   </tbody>
 </table>
