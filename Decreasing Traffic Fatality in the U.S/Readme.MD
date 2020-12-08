@@ -23,7 +23,7 @@ I use the a dataset created by five-thirty-eight, available [here](https://datah
 
 **Goals**
 ---
-The goal of this project is to categorize States that have similar profiles in terms of causes of fatal car collisions into clusters using Principal Components Analysis(PCA) and K-means Clustering. Rather, than coming up with a costly, one-size-fits-all policy nation-wide strategy or action plan to reduce the number of road accidents, it would be valuable to develop a State-oriented plan. The second goal is to show the total number of drivers involved in an fatal accident by cluster-group, thereby reflecting where a greater number of accidents occur. 
+The goal of this project is to categorize States that have similar profiles in terms of causes of fatal car collisions into clusters using Principal Components Analysis(PCA) and K-means Clustering. Rather, than coming up with a costly, one-size-fits-all policy nation-wide strategy or action plan to reduce the number of road accidents, it would be valuable to develop a State-oriented plan. The second goal is to show the total number of drivers involved in an fatal accident by cluster-group, thereby reflecting where a greater number of accidents occur. The findings can be insightful for the government and policy-makers on where to focus efforts in reducing traffic fatalities.
 
 **Table and Contents**
 ---
